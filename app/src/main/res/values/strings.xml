@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="user_name_string">User Name</string>
+    <string name = "password_string">Password</string>
+    <string name="save_info_string">SaveInfo</string>
+    <string name="display_info_string">DisplayData</string>
+    <string name="data_view">DataView</string>
+
+
+</resources>
